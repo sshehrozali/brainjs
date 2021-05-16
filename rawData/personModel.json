@@ -1,58 +1,110 @@
 [
   {
-    "msg": "I love you",
-    "feelings": "Love"
+    "msg": "Hi",
+    "feelings": "greetings"
   },
   {
-    "msg": "I miss you",
-    "feelings": "remembering"
-  },
-  {
-    "msg": "are you single?",
-    "feelings": "conscious"
+    "msg": "Hello welcome",
+    "feelings": "greetings"
   },
   {
     "msg": "Where are you?",
-    "feelings": "remembering"
+    "feelings": "asking"
   },
   {
-    "msg": "baby please talk to me",
-    "feelings": "Love"
+    "msg": "When you will arrive?",
+    "feelings": "asking"
   },
   {
-    "msg": "babe i kiss you",
-    "feelings": "Love"
+    "msg": "Hows your day?",
+    "feelings": "asking"
   },
   {
-    "msg": "aww you are so sweet",
-    "feelings": "Love"
+    "msg": "Do you like a cup of tea?",
+    "feelings": "asking"
   },
   {
-    "msg": "looks like you have a bunch of bfs",
-    "feelings": "conscious"
+    "msg": "Nice to meet you",
+    "feelings": "greetings"
   },
   {
-    "msg": "staring at your pic",
-    "feelings": "remembering"
+    "msg": "You are so sweet",
+    "feelings": "greetings"
   },
   {
-    "msg": "lets plan some outing",
-    "feelings": "joy"
+    "msg": "What are you doing?",
+    "feelings": "asking"
   },
   {
-    "msg": "what are you doing",
-    "feelings": "remembering"
+    "msg": "Do you like me?",
+    "feelings": "asking"
   },
   {
-    "msg": "haha",
-    "feelings": "joy"
+    "msg": "You looks so cool",
+    "feelings": "greetings"
   },
   {
-    "msg": "you are only the one",
-    "feelings": "sympathy"
+    "msg": "Hi bro",
+    "feelings": "greetings"
   },
   {
-    "msg": "How much you love me?",
-    "feelings": "Love"
+    "msg": "I like you",
+    "feelings": "greetings"
+  },
+  {
+    "msg": "Wonderful",
+    "feelings": "greetings"
+  },
+  {
+    "msg": "whatsup bro?",
+    "feelings": "greetings"
+  },
+  {
+    "msg": "hot",
+    "feelings": "greetings"
+  },
+  {
+    "msg": "are you available",
+    "feelings": "asking"
+  },
+  {
+    "msg": "Great",
+    "feelings": "greetings"
+  },
+  {
+    "msg": "pretty good bro",
+    "feelings": "greetings"
+  },
+  {
+    "msg": "are you fine?",
+    "feelings": "asking"
+  },
+  {
+    "msg": "happy great cheers up",
+    "feelings": "greetings"
+  },
+  {
+    "msg": "time tell me I am asking you",
+    "feelings": "asking"
+  },
+  {
+    "msg": "busy you asking free?",
+    "feelings": "asking"
+  },
+  {
+    "msg": "fine have completed done work",
+    "feelings": "asking"
+  },
+  {
+    "msg": "busy no time where are you",
+    "feelings": "asking"
+  },
+  {
+    "msg": "howdy dear you",
+    "feelings": "greetings"
+  },
+  {
+    "msg": "sup fine cool pretty you doing something",
+    "feelings": "greetings"
   }
 ]

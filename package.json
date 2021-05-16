@@ -1,14 +1,21 @@
 {
-  "name": "SimpleMachineLearningAlgo",
+  "name": "nodejs-chatbot",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple chatbot based on Neural Network developed using brain.js module (Node.Js)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sshehrozali/nodeJs-ML-love-Bot.git"
+  },
+  "author": "Shehroz Ali",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sshehrozali/nodeJs-ML-love-Bot/issues"
+  },
+  "homepage": "https://github.com/sshehrozali/nodeJs-ML-love-Bot#readme",
   "dependencies": {
     "brain.js": "^2.0.0-beta.2",
     "nodemon": "^2.0.7"
