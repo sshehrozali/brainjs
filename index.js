@@ -6,17 +6,16 @@ const persondata = require("./rawData/personModel.json");
 const replierdata = require("./rawData/replierModel.json");
 
 
-
+console.log("Mapping values...")
 // Train Person Model
 const persontrainingData = persondata.map(item => ({
   input: item.msg,
   output: item.feelings
 }))
 
-network.train(persontrainingData, {
-  iterations: 500
-});
-var textMsg = "looks like you are cooking?"; // Person's input
+console.log("Training data...")
+network.train(persontrainingData, {iterations: 500, log: true});
+var textMsg = "I am not happy now"; // Person's input
 const PersonOutput = network.run(textMsg);  // Build person model
 
 

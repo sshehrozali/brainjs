@@ -106,5 +106,66 @@
   {
     "msg": "sup fine cool pretty you doing something",
     "feelings": "greetings"
+  },
+  {
+    "msg": "unhappy bored boring nothing depressed quite",
+    "feelings": "sad"
+  },
+  {
+    "msg": "quite bored",
+    "feelings": "sad"
+  },
+  {
+    "msg": "i am depressed sad",
+    "feelings": "sad"
+  },
+  {
+    "msg": "unhappy?",
+    "feelings": "sad"
+  },
+  {
+    "msg": "bored shutup go out",
+    "feelings": "sad"
+  },
+  {
+    "msg": "i dont want to talk to you",
+    "feelings": "sad"
+  },
+  {
+    "msg": "what to aim for?",
+    "feelings": "sad"
+  },
+  {
+    "msg": "not no don't doesn't forbade forbid low angry",
+    "feelings": "sad"
+  },
+  {
+    "msg": "i dont want to go outside",
+    "feelings": "sad"
+  },
+  {
+    "msg": "feeling low depressed sad",
+    "feelings": "sad"
+  },
+  { 
+    "msg": "sadden",
+    "feelings": "sad"
+  },
+  { 
+    "msg": "unhappy",
+    "feelings": "sad"
+  },
+  { 
+    "msg": "mournful",
+    "feelings": "sad"
+  },
+  { 
+    "msg": "melancholy",
+    "feelings": "sad"
+  },
+  { 
+    "msg": "down",
+    "feelings": "sad"
   }
+  
 ]
