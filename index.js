@@ -3,7 +3,7 @@ const network = new brain.recurrent.LSTM();
 
 // Import training model
 const persondata = require("./rawData/personModel.json");
-const replierdata = require("./rawData/replierModel.json");
+// const replierdata = require("./rawData/replierModel.json");
 
 
 console.log("Mapping values...")
@@ -36,5 +36,5 @@ const PersonOutput = network.run(textMsg);  // Build person model
 
 // See results
 console.log(`Msg: ${textMsg}`);
-console.log(`Expectation: ${PersonOutput}`);
+console.log(`Emotion: ${PersonOutput}`);
 // console.log(`Reply: ${ReplierOutput}`);
